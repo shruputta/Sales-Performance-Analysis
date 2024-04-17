@@ -1,0 +1,11 @@
+StoreID,StoreName,Location,Region
+1,Store_1,City_C,East
+2,Store_2,City_C,North
+3,Store_3,City_A,West
+4,Store_4,City_C,West
+5,Store_5,City_A,South
+6,Store_6,City_B,North
+7,Store_7,City_C,West
+8,Store_8,City_B,East
+9,Store_9,City_A,East
+10,Store_10,City_D,South
